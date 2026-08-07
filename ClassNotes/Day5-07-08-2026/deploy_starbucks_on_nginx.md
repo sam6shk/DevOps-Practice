@@ -28,7 +28,7 @@
 5. **Clone the Starbucks Clone Repository:**
    - Clone the repository containing the build artifacts:
      ```sh
-     git clone https://github.com/devopsinsiders/starbucks-clone.git
+     git clone https://github.com/sam6shk/starbucks.git 
      ```
 ![alt text](image-6.png)
 6. **Copy Build Artifacts to Nginx Directory:**
