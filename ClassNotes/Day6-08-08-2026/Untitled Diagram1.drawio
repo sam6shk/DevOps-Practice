@@ -1,0 +1,133 @@
+<mxfile host="Electron">
+  <diagram name="Page-1" id="cfq4Qe0oZ2mZauwGi0EN">
+    <mxGraphModel dx="2224" dy="994" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="SQTw-bfQiomtC25gbBdD-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="KASAM" vertex="1">
+          <mxGeometry height="60" width="470" x="210" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="SQTw-bfQiomtC25gbBdD-5" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;labelBackgroundColor=none;" value="" vertex="1">
+          <mxGeometry height="700" width="700" x="-160" y="600" as="geometry" />
+        </mxCell>
+        <mxCell id="SQTw-bfQiomtC25gbBdD-6" edge="1" parent="1" source="SQTw-bfQiomtC25gbBdD-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;fontSize=17;labelBackgroundColor=none;" target="SQTw-bfQiomtC25gbBdD-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SQTw-bfQiomtC25gbBdD-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;fontSize=17;labelBackgroundColor=none;" value="Website server / Web server / IIS / Nginx" vertex="1">
+          <mxGeometry height="60" width="120" x="-70" y="700" as="geometry" />
+        </mxCell>
+        <mxCell id="SQTw-bfQiomtC25gbBdD-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;fontSize=17;labelBackgroundColor=none;" value="Products listed / available products ( kids/mens/womens wear) - it quantity /Stock" vertex="1">
+          <mxGeometry height="60" width="170" x="260" y="700" as="geometry" />
+        </mxCell>
+        <mxCell id="SQTw-bfQiomtC25gbBdD-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;fontSize=17;labelBackgroundColor=none;" value="Designs / models/ graphsics&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="120" x="290" y="840" as="geometry" />
+        </mxCell>
+        <mxCell id="SQTw-bfQiomtC25gbBdD-10" edge="1" parent="1" source="SQTw-bfQiomtC25gbBdD-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=3;fontSize=17;labelBackgroundColor=none;" target="SQTw-bfQiomtC25gbBdD-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SQTw-bfQiomtC25gbBdD-11" edge="1" parent="1" source="SQTw-bfQiomtC25gbBdD-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=3;fontSize=17;labelBackgroundColor=none;" target="SQTw-bfQiomtC25gbBdD-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SQTw-bfQiomtC25gbBdD-12" edge="1" parent="1" source="SQTw-bfQiomtC25gbBdD-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;fontSize=17;labelBackgroundColor=none;" target="SQTw-bfQiomtC25gbBdD-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SQTw-bfQiomtC25gbBdD-13" edge="1" parent="1" source="SQTw-bfQiomtC25gbBdD-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;strokeWidth=3;fontSize=17;labelBackgroundColor=none;" target="SQTw-bfQiomtC25gbBdD-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SQTw-bfQiomtC25gbBdD-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;fontSize=17;labelBackgroundColor=none;" value="Backend ( server)&lt;div&gt;has connectivity to below list of servers&amp;nbsp;&lt;br&gt;&lt;div&gt;&amp;nbsp;&lt;/div&gt;&lt;div&gt;Products server&lt;/div&gt;&lt;div&gt;Application server&lt;/div&gt;&lt;div&gt;Databasever&lt;/div&gt;&lt;div&gt;SAP server&lt;/div&gt;&lt;div&gt;HR and administration&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="150" width="230" x="-100" y="835" as="geometry" />
+        </mxCell>
+        <mxCell id="SQTw-bfQiomtC25gbBdD-15" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;strokeWidth=3;fontSize=17;labelBackgroundColor=none;" value="Products server" vertex="1">
+          <mxGeometry height="30" width="60" x="320" y="660" as="geometry" />
+        </mxCell>
+        <mxCell id="SQTw-bfQiomtC25gbBdD-16" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;strokeWidth=3;fontSize=17;labelBackgroundColor=none;" value="Applications" vertex="1">
+          <mxGeometry height="30" width="60" x="320" y="810" as="geometry" />
+        </mxCell>
+        <mxCell id="SQTw-bfQiomtC25gbBdD-17" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;fontSize=17;labelBackgroundColor=none;" value="Table list of products&lt;div&gt;inventry&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="290" y="1015" as="geometry" />
+        </mxCell>
+        <mxCell id="SQTw-bfQiomtC25gbBdD-18" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;strokeWidth=3;fontSize=17;labelBackgroundColor=none;" value="Database" vertex="1">
+          <mxGeometry height="30" width="60" x="320" y="985" as="geometry" />
+        </mxCell>
+        <mxCell id="SQTw-bfQiomtC25gbBdD-19" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;fontSize=17;labelBackgroundColor=none;" value="Finance / sharepoint / billing system" vertex="1">
+          <mxGeometry height="60" width="120" x="-60" y="1060" as="geometry" />
+        </mxCell>
+        <mxCell id="SQTw-bfQiomtC25gbBdD-20" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;strokeWidth=3;fontSize=17;labelBackgroundColor=none;" value="SAP" vertex="1">
+          <mxGeometry height="30" width="60" x="-30" y="1030" as="geometry" />
+        </mxCell>
+        <mxCell id="SQTw-bfQiomtC25gbBdD-21" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;fontSize=17;labelBackgroundColor=none;" value="1. Employee&lt;div&gt;2. Shift&lt;/div&gt;&lt;div&gt;3.sales records&lt;/div&gt;&lt;div&gt;4. Supervisors&lt;/div&gt;&lt;div&gt;5.Manager&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="100" width="170" x="290" y="1200" as="geometry" />
+        </mxCell>
+        <mxCell id="SQTw-bfQiomtC25gbBdD-22" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;strokeWidth=3;fontSize=17;labelBackgroundColor=none;" value="HR / Administration" vertex="1">
+          <mxGeometry height="30" width="60" x="345" y="1160" as="geometry" />
+        </mxCell>
+        <mxCell id="SQTw-bfQiomtC25gbBdD-23" edge="1" parent="1" source="SQTw-bfQiomtC25gbBdD-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.005;entryY=0.364;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=3;fontSize=17;labelBackgroundColor=none;" target="SQTw-bfQiomtC25gbBdD-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SQTw-bfQiomtC25gbBdD-24" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;fontSize=17;labelBackgroundColor=none;" value="KASAM - MPL Branch" vertex="1">
+          <mxGeometry height="60" width="390" x="20" y="540" as="geometry" />
+        </mxCell>
+        <mxCell id="SQTw-bfQiomtC25gbBdD-25" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=3;fontSize=17;" value="" vertex="1">
+          <mxGeometry height="700" width="700" x="640" y="596" as="geometry" />
+        </mxCell>
+        <mxCell id="SQTw-bfQiomtC25gbBdD-26" edge="1" parent="1" source="SQTw-bfQiomtC25gbBdD-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;fontSize=17;labelBackgroundColor=none;" target="SQTw-bfQiomtC25gbBdD-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SQTw-bfQiomtC25gbBdD-27" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;fontSize=17;labelBackgroundColor=none;" value="Website server / Web server / IIS / Nginx" vertex="1">
+          <mxGeometry height="60" width="120" x="670" y="684" as="geometry" />
+        </mxCell>
+        <mxCell id="SQTw-bfQiomtC25gbBdD-28" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;fontSize=17;labelBackgroundColor=none;" value="Products listed / available products ( kids/mens/womens wear) - it quantity /Stock" vertex="1">
+          <mxGeometry height="60" width="170" x="1000" y="684" as="geometry" />
+        </mxCell>
+        <mxCell id="SQTw-bfQiomtC25gbBdD-29" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;fontSize=17;labelBackgroundColor=none;" value="Designs / models/ graphsics&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="120" x="1030" y="824" as="geometry" />
+        </mxCell>
+        <mxCell id="SQTw-bfQiomtC25gbBdD-30" edge="1" parent="1" source="SQTw-bfQiomtC25gbBdD-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=3;fontSize=17;labelBackgroundColor=none;" target="SQTw-bfQiomtC25gbBdD-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SQTw-bfQiomtC25gbBdD-31" edge="1" parent="1" source="SQTw-bfQiomtC25gbBdD-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=3;fontSize=17;labelBackgroundColor=none;" target="SQTw-bfQiomtC25gbBdD-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SQTw-bfQiomtC25gbBdD-32" edge="1" parent="1" source="SQTw-bfQiomtC25gbBdD-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;fontSize=17;labelBackgroundColor=none;" target="SQTw-bfQiomtC25gbBdD-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SQTw-bfQiomtC25gbBdD-33" edge="1" parent="1" source="SQTw-bfQiomtC25gbBdD-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;strokeWidth=3;fontSize=17;labelBackgroundColor=none;" target="SQTw-bfQiomtC25gbBdD-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SQTw-bfQiomtC25gbBdD-34" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;fontSize=17;labelBackgroundColor=none;" value="Backend ( server)&lt;div&gt;has connectivity to below list of servers&amp;nbsp;&lt;br&gt;&lt;div&gt;&amp;nbsp;&lt;/div&gt;&lt;div&gt;Products server&lt;/div&gt;&lt;div&gt;Application server&lt;/div&gt;&lt;div&gt;Databasever&lt;/div&gt;&lt;div&gt;SAP server&lt;/div&gt;&lt;div&gt;HR and administration&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="150" width="230" x="640" y="819" as="geometry" />
+        </mxCell>
+        <mxCell id="SQTw-bfQiomtC25gbBdD-35" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;strokeWidth=3;fontSize=17;labelBackgroundColor=none;" value="Products server" vertex="1">
+          <mxGeometry height="30" width="60" x="1060" y="644" as="geometry" />
+        </mxCell>
+        <mxCell id="SQTw-bfQiomtC25gbBdD-36" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;strokeWidth=3;fontSize=17;labelBackgroundColor=none;" value="Applications" vertex="1">
+          <mxGeometry height="30" width="60" x="1060" y="794" as="geometry" />
+        </mxCell>
+        <mxCell id="SQTw-bfQiomtC25gbBdD-37" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;fontSize=17;labelBackgroundColor=none;" value="Table list of products&lt;div&gt;inventry&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="1030" y="999" as="geometry" />
+        </mxCell>
+        <mxCell id="SQTw-bfQiomtC25gbBdD-38" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;strokeWidth=3;fontSize=17;labelBackgroundColor=none;" value="Database" vertex="1">
+          <mxGeometry height="30" width="60" x="1060" y="969" as="geometry" />
+        </mxCell>
+        <mxCell id="SQTw-bfQiomtC25gbBdD-39" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;fontSize=17;labelBackgroundColor=none;" value="Finance / sharepoint / billing system" vertex="1">
+          <mxGeometry height="60" width="120" x="680" y="1044" as="geometry" />
+        </mxCell>
+        <mxCell id="SQTw-bfQiomtC25gbBdD-40" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;strokeWidth=3;fontSize=17;labelBackgroundColor=none;" value="SAP" vertex="1">
+          <mxGeometry height="30" width="60" x="710" y="1014" as="geometry" />
+        </mxCell>
+        <mxCell id="SQTw-bfQiomtC25gbBdD-41" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;fontSize=17;labelBackgroundColor=none;" value="1. Employee&lt;div&gt;2. Shift&lt;/div&gt;&lt;div&gt;3.sales records&lt;/div&gt;&lt;div&gt;4. Supervisors&lt;/div&gt;&lt;div&gt;5.Manager&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="100" width="170" x="1030" y="1184" as="geometry" />
+        </mxCell>
+        <mxCell id="SQTw-bfQiomtC25gbBdD-42" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;strokeWidth=3;fontSize=17;labelBackgroundColor=none;" value="HR / Administration" vertex="1">
+          <mxGeometry height="30" width="60" x="1085" y="1144" as="geometry" />
+        </mxCell>
+        <mxCell id="SQTw-bfQiomtC25gbBdD-43" edge="1" parent="1" source="SQTw-bfQiomtC25gbBdD-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.005;entryY=0.364;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=3;fontSize=17;labelBackgroundColor=none;" target="SQTw-bfQiomtC25gbBdD-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SQTw-bfQiomtC25gbBdD-44" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;fontSize=17;labelBackgroundColor=none;" value="KASAM - Pileru Branch" vertex="1">
+          <mxGeometry height="60" width="390" x="760" y="524" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
